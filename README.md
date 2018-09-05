@@ -1,2 +1,2 @@
 # TestGit
-This project is in order to learn how to ust git tools.
+This project is in order to learn how to use git tools.
